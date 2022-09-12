@@ -1,10 +1,8 @@
 {
   "todos": [
-    { "id": 1, "titulo": "Título 1", "area": "Área 1", "responsavel": "Responsável 1", "status" : "todo" },    
-    { "id": 2, "titulo": "Título 2", "area": "Área 2", "responsavel": "Responsável 2", "status" : "todo" }
-  ],
-  "dones": [    
-    { "id": 3, "titulo": "Título 3", "area": "Área 3", "responsavel": "Responsável 3", "status" : "done" },    
-    { "id": 4, "titulo": "Título 4", "area": "Área 4", "responsavel": "Responsável 4", "status" : "done" }
+    { "id": 1, "numero_instrucao": "Instrução 1", "nome": "Nome 1", "area": "Área 1", "responsavel": "Responsável 1", "status" : "todo" },    
+    { "id": 2, "numero_instrucao": "Instrução 2", "nome": "Nome 2", "area": "Área 2", "responsavel": "Responsável 2", "status" : "todo" },
+    { "id": 3, "numero_instrucao": "Instrução 3", "nome": "Nome 3", "area": "Área 3", "responsavel": "Responsável 3", "status" : "done" },    
+    { "id": 4, "numero_instrucao": "Instrução 4", "nome": "Nome 4", "area": "Área 4", "responsavel": "Responsável 4", "status" : "done" }
   ]
 }
