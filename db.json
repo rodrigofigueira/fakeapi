@@ -1,12 +1,12 @@
 {
-todo :  [
+"todo" :  [
     { "id": 1, "titulo": "Título 1", "area": "Área 1", "responsavel": "Responsável 1"},
     { "id": 2, "titulo": "Título 2", "area": "Área 2", "responsavel": "Responsável 2"},
     { "id": 3, "titulo": "Título 3", "area": "Área 3", "responsavel": "Responsável 3"},
     { "id": 4, "titulo": "Título 4", "area": "Área 4", "responsavel": "Responsável 4"},
-    { "id": 5, "titulo": "Título 5", "area": "Área 5", "responsavel": "Responsável 5"},
+    { "id": 5, "titulo": "Título 5", "area": "Área 5", "responsavel": "Responsável 5"}
   ],
-done : [
-    { "id": 6, "titulo": "Título 6", "area": "Área 6", "responsavel": "Responsável 6"},
+"done" : [
+    { "id": 6, "titulo": "Título 6", "area": "Área 6", "responsavel": "Responsável 6"}
   ]  
 }
