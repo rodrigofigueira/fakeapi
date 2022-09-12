@@ -1,6 +1,6 @@
 {
   "todo": [
-    { "id": 1, "titulo": "Título 1", "area": "Área 1", "responsavel": "Responsável" },
+    { "id": 1, "titulo": "Titulo 1", "area": "Area 1", "responsavel": "Responsavel" },
   ],
   "alunos": [
     { "id": 1, "nome": "Marcela da Silva", "curso": 1 },
