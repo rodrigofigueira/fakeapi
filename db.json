@@ -1,5 +1,5 @@
 {
-  "todos": [
+  "kanban": [
     { "id": 1, "numero_instrucao": "Instrução 1", "nome": "Nome 1", "area": "Área 1", "responsavel": "Responsável 1", "status" : "todo" },    
     { "id": 2, "numero_instrucao": "Instrução 2", "nome": "Nome 2", "area": "Área 2", "responsavel": "Responsável 2", "status" : "todo" },
     { "id": 3, "numero_instrucao": "Instrução 3", "nome": "Nome 3", "area": "Área 3", "responsavel": "Responsável 3", "status" : "done" },    
