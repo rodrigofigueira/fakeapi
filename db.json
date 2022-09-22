@@ -4,5 +4,9 @@
     { "id": 2, "numero_instrucao": "Instrução 2", "nome": "Nome 2", "area": "Área 2", "responsavel": "Responsável 2", "status" : "todo" },
     { "id": 3, "numero_instrucao": "Instrução 3", "nome": "Nome 3", "area": "Área 3", "responsavel": "Responsável 3", "status" : "done" },    
     { "id": 4, "numero_instrucao": "Instrução 4", "nome": "Nome 4", "area": "Área 4", "responsavel": "Responsável 4", "status" : "done" }
+  ],
+  "veiculo" : [
+    { "placa": "ABCDEF", "pais": "Brasil", "municipio": "Suzano", "uf": "SP", "renavam": "123abc", "marca" : "Hyundai", "HB20s", "especie" : "especie", "categoria" : "categoria teste", "cor" : "prata" },    
+    { "placa": "GHIJKL", "pais": "Brasil", "municipio": "Mogi das Cruzes", "uf": "SP", "renavam": "456def", "marca" : "Volkswagen", "Fusca", "especie" : "especie", "categoria" : "categoria teste", "cor" : "branca" }
   ]
 }
