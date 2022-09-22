@@ -8,5 +8,12 @@
   "veiculo": [
     { "placa": "ABCDEF", "pais": "Brasil", "municipio": "Suzano", "uf": "SP", "renavam": "123abc", "marca": "Hyundai", "modelo": "HB20s", "especie" : "especie", "categoria" : "categoria teste", "cor" : "prata" },    
     { "placa": "GHIJKL", "pais": "Brasil", "municipio": "Mogi das Cruzes", "uf": "SP", "renavam": "456def", "marca": "Volkswagen", "modelo": "Fusca", "especie" : "especie", "categoria" : "categoria teste", "cor" : "branca" }
+  ],
+  "condutor": [
+    {"cpf":"12345678900","nome":"Rodrigo Figueira","cnh":"123def","telefone":"(11) 95172-5732"},
+    {"cpf":"98765432100","nome":"João da Silva","cnh":"456ghi","telefone":"(51) 95522-4785"}
+  ],
+  "agente": [
+    {"matricula":"987654","nome":"José Marins","unidade":"Central"}
   ]
 }
