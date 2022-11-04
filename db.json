@@ -1,23 +1,10 @@
 {
-  "kanban": [
-    { "id": 1, "numero_instrucao": "Instrução 1", "nome": "Nome 1", "area": "Área 1", "responsavel": "Responsável 1", "status" : "todo" },    
-    { "id": 2, "numero_instrucao": "Instrução 2", "nome": "Nome 2", "area": "Área 2", "responsavel": "Responsável 2", "status" : "todo" },
-    { "id": 3, "numero_instrucao": "Instrução 3", "nome": "Nome 3", "area": "Área 3", "responsavel": "Responsável 3", "status" : "done" },    
-    { "id": 4, "numero_instrucao": "Instrução 4", "nome": "Nome 4", "area": "Área 4", "responsavel": "Responsável 4", "status" : "done" }
-  ],
-  "veiculo": [
-    { "placa": "ABCDEF", "pais": "Brasil", "municipio": "Suzano", "uf": "SP", "renavam": "123abc", "marca": "Hyundai", "modelo": "HB20s", "especie" : "especie", "categoria" : "categoria teste", "cor" : "prata" },    
-    { "placa": "GHIJKL", "pais": "Brasil", "municipio": "Mogi das Cruzes", "uf": "SP", "renavam": "456def", "marca": "Volkswagen", "modelo": "Fusca", "especie" : "especie", "categoria" : "categoria teste", "cor" : "branca" }
-  ],
-  "condutor": [
-    {"cpf":"12345678900","nome":"Rodrigo Figueira","cnh":"123def","telefone":"(11) 95172-5732"},
-    {"cpf":"98765432100","nome":"João da Silva","cnh":"456ghi","telefone":"(51) 95522-4785"}
-  ],
-  "agente": [
-    {"matricula":"987654","nome":"José Marins","unidade":"Central"}
-  ],
   "card" : [
-    {"question": "questão 1", "anwser": "resposta 1", "flags": ["flag1", "flag2"]},
-    {"question": "questão 2", "anwser": "resposta 2", "flags": ["flag1", "flag2"]}
+    {"question": "Quais camadas OSI o Classic Load Balancer atua?", "anwser": "TCP (camada 4) e HTTP e HTTPS (Camada 7)", "flags": ["ELB", "Classic Load Balance"]},
+    {"question": "O Health Check do Classic Load Balancer é baseado em quais protocolos/camadas?", "anwser": "TCP e HTTP/HTTPS", "flags": ["ELB", "Classic Load Balance"]},
+    {"question": "Como o Classic Load Balancer é acessado por clientes?", "anwser": "Através de um hostname fixo", "flags": ["ELB", "Classic Load Balance"]},
+    {"question": "O que é um ping port?", "anwser": "É a porta configurada no health check de um ELB", "flags": ["ELB", "Classic Load Balance"]},
+    {"question": "O que é um ping path?", "anwser": "É o endpoint configurado no health check de um ELB", "flags": ["ELB", "Classic Load Balance"]},
+    {"question": "Explique como um EC2 pode ser acessível somente por um ELB.", "anwser": "Colocando no fluxo de entrada (inbound rules) um Security Group que aponte para um ELB", "flags": ["ELB"]}
   ]
 }
