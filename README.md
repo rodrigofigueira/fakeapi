@@ -1,0 +1,1 @@
+Para acessar: https://my-json-server.typicode.com/rodrigofigueira/fakeapi
