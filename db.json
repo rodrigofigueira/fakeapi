@@ -15,5 +15,9 @@
   ],
   "agente": [
     {"matricula":"987654","nome":"José Marins","unidade":"Central"}
+  ],
+  "card" : [
+    {"question": "questão 1", "anwser": "resposta 1", "flags": ["flag1", "flag2"]},
+    {"question": "questão 2", "anwser": "resposta 2", "flags": ["flag1", "flag2"]}
   ]
 }
